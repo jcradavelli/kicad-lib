@@ -1,0 +1,21 @@
+[submodule "kicad-library-utils"]
+	path = kicad-library-utils
+	url = git@gitlab.com:kicad-lib_byjulio/kicad-library-utils.git
+[submodule "klc"]
+	path = klc
+	url = git@gitlab.com:kicad-lib_byjulio/klc
+[submodule "kicad-packages3D-generator"]
+	path = kicad-packages3D-generator
+	url = git@gitlab.com:kicad-lib_byjulio/kicad-packages3D-generator
+[submodule "kicad-templates"]
+	path = kicad-templates
+	url = git@gitlab.com:kicad-lib_byjulio/kicad-templates.git
+[submodule "kicad-symbols"]
+	path = kicad-symbols
+	url = git@gitlab.com:kicad-lib_byjulio/kicad-symbols.git
+[submodule "kicad-footprint-generator"]
+	path = kicad-footprint-generator
+	url = git@gitlab.com:kicad-lib_byjulio/kicad-footprint-generator.git
+[submodule "kicad-footprints"]
+	path = kicad-footprints
+	url = git@gitlab.com:kicad-lib_byjulio/kicad-footprints.git
